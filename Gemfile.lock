@@ -100,7 +100,6 @@ PLATFORMS
 DEPENDENCIES
   ZenTest (= 4.5.0)
   autotest-rails
-  capybara (~> 1)
   chronic
   cucumber
   cucumber-rails
@@ -111,7 +110,6 @@ DEPENDENCIES
   icalendar
   inifile
   json
-  nokogiri
   open-uri-cached
   poltergeist
   prawn
